@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Tochikor Blog`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Tochikor`,
+      summary: `Tochikorea`,
     },
     openGraphImage: `open-graph-image.png`,
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
