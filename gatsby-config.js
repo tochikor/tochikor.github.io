@@ -7,7 +7,7 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://tochikor.github.io/`,
+    siteUrl: `https://tochikor.github.io`,
     social: {
       twitter: `yinkakun`,
     },
